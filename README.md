@@ -2,6 +2,8 @@
 
 A full-stack URL Shortener application that converts long, complex URLs into short, easy-to-share links. Built to explore backend development, API design, database integration, and URL redirection.
 
+![banner_image](./frontend//public/url-shortner.png)
+
 ##  Features
 
 - **Short URL Generation:** Convert long URLs into compact, shareable links.
