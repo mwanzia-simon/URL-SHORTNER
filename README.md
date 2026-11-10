@@ -112,6 +112,6 @@ GitHub: [mwanzia-simon](https://github.com/mwanzia-simon)
 
 ---
 
-⭐ If you find this project interesting, consider giving it a star!
+ If you find this project interesting, consider giving it a star!
 
 **Built with curiosity, consistency, and a passion for learning.**
