@@ -10,7 +10,7 @@ A full-stack URL Shortener application that converts long, complex URLs into sho
 - **Database Integration:** Store and retrieve URL records.
 - **RESTful API:** Handle URL creation and redirection through API endpoints.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 Update this section to match the technologies used in your implementation.
 
