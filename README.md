@@ -104,7 +104,7 @@ This project is part of my journey in full-stack development. It focuses on:
 - QR code generation.
 - URL expiration functionality.
 
-## 👨 Author
+##  Author
 
 **Simon**
 
